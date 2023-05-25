@@ -1,4 +1,4 @@
-% simple_shell(1) 
+% simple_shell(1)
 
 # NAME
 
